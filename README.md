@@ -5,7 +5,7 @@ When I have enough experience, I will try to revise.
 
 # Failed to debug
 
-# Success to debug
+# Succeeded to debug
 
 ## ./CUDA/matrix_multiplication.cu 
 **What did I learn?**    
@@ -14,7 +14,10 @@ When I have enough experience, I will try to revise.
 &emsp;&emsp;So I think that I need a coding scheme to help me to check code to resisting the bad effects of muscle memory.   
 &emsp;&emsp;I will use `Visio` to do this. And I hope I can find better tool.
 
-## ./CT/Split_Bregman
+## ./CT/Split_Bregman 2022/5/19
 &emsp;&emsp;The program took me a week. On roads to coding-success, it's afflictive 😟 On roads to success in the experiment which gived me good results, it breaks my faith 😳. Through this exprience, I have learned a lot. Then, I will record my thoughts.  
 **What did I learn?**  
+* `Functional Programming`/`Structuerd Programming(SP)` is the better programming paradigm than `Procedural Programming`.<br>
+&emsp;&emsp;Some time before that, I don't like Functional Programming. Because I think Procedural Pragramming makes me feel comfortable when I write a code, and Functional Programming needs too many parameters to write into Function particularly when you need nested function calls.<br>
+&emsp;&emsp;However, It's a miserable thing that review a code using Procedural Pragramming and having over 509 lines. When I debug a code using Functional Pragramming, the review is so easy.**By using Functional Pragramming, the work of review is clear: check the Spelling mistake and logic error in this function; check the parameters about both type and definition; check the value of return results. Through focusing on these points, you can review your code clearly and fastly.** I was impressed (smiling_face_with_tear).  
 * 
