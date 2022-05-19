@@ -13,3 +13,6 @@ When I have enough experience, I will try to revise.
 &emsp;&emsp;So I think that I need a coding scheme to help me to check code to resisting the bad effects of muscle memory.   
 &emsp;&emsp;I will use `Visio` to do this. And I hope I can find better tool.
 ## ./CT/Split_Bregman
+&emsp;&emsp;The program took me a week. On roads to coding-success, it's afflictive 😟 On roads to success in the experiment which gived me good results, it breaks my faith 😳. Through this exprience, I have learned a lot. Then, I will record my thoughts.  
+**What did I learn?**
+&emsp;&emsp;
