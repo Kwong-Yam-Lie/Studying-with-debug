@@ -16,5 +16,5 @@ When I have enough experience, I will try to revise.
 
 ## ./CT/Split_Bregman
 &emsp;&emsp;The program took me a week. On roads to coding-success, it's afflictive 😟 On roads to success in the experiment which gived me good results, it breaks my faith 😳. Through this exprience, I have learned a lot. Then, I will record my thoughts.  
-**What did I learn?**
-&emsp;&emsp;函数式子编程，函数式编程调试的几个部分。简化才是王道
+**What did I learn?**  
+* 
