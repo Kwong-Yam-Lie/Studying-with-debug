@@ -26,7 +26,7 @@ When I have enough experience, I will try to revise.
 &emsp;&emsp;My teacher(Yining Zhu) gived us a picture of the Raw Data type a week ago, which I've never used data of this type. 
 &emsp;&emsp;The characteristic of  this picture: 
 - Gray Image;
-- width 4096,height 2048;
+- [width, height] = [4096, 2048];
 - Single-precision floating point type.  
 
 &emsp;&emsp;He also tell us that we can use `ImageJ` to read this picture.But in the beginning, I can't sucess to read this picture, through I think I have know all information about this problem.  
